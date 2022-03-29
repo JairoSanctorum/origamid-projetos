@@ -1,0 +1,23 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+a {
+    text-decoration: none;
+}
+
+.cidade a {
+    color: seagreen;
+}
+
+.hoje a {
+    color: darkred;
+}
+
+.amanha a {
+    color: darkblue;
+}
+ p {
+     font-size: 20px;
+ }
+ 
